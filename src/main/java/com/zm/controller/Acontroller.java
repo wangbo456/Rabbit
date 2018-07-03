@@ -28,4 +28,9 @@ public class Acontroller {
        System.out.println(list);
    }
 
+    @RequestMapping("getB")
+    public void  getB(){
+        List<Powar> list =  bdWbService.getTree();
+        System.out.println(list);
+    }
 }
