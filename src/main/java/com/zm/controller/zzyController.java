@@ -18,6 +18,8 @@ public class zzyController {
     public void aa(){
 
     }
-
+    public void bb(){
+        System.out.println("第二次提交");
+    }
 
 }
