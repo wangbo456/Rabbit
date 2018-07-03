@@ -21,5 +21,9 @@ public class zzyController {
     public void bb(){
         System.out.println("第二次提交");
     }
+    public void cc(){
+        System.out.println("第3次提交");
+    }
+
 
 }
