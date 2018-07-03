@@ -46,6 +46,6 @@ public class LoyalController {
      * @Date: 2018/7/3 9:58
      */
     public static void getABC(){
-        System.out.println("456");
+        System.out.println("123");
     }
 }
