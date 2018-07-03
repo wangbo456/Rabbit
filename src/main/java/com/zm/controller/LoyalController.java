@@ -30,4 +30,12 @@ public class LoyalController {
     public Map<String, Object> queryUserById(){
         return null;
     }
+    /**
+     * 功能描述:〈查询所有对象〉
+     * @Author:传闻中的郭先森
+     * @Date: 2018/7/3 9:14
+     */
+    public Map<String, Object> queryUserInfo(){
+        return null;
+    }
 }
