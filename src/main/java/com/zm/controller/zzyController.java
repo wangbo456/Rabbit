@@ -15,6 +15,9 @@ public class zzyController {
     public static void main(String[] args) {
         System.out.println("张正义");
     }
+    public void aa(){
+
+    }
 
 
 }
